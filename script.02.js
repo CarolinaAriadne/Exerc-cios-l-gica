@@ -1,3 +1,6 @@
+// leitura de um número inteiro que representa um valor de saque em um caixa eletrônico. O objetivo é informar quais notas serão liberadas, bem como liberar o menor número de notas.
+
+
 let saldo = 250;
 
 let notas = [100, 50, 20, 10];
