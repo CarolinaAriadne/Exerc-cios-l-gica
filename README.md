@@ -5,3 +5,6 @@ Dado um valor numérico, escreva - o por extenso.
 
 ## script.02.js 
 Número inteiro que representa um valor de saque em um caixa eletrônico. O objetivo é informar quais notas serão liberadas, bem como liberar o menor número de notas.
+
+## script.03.js
+Verifica se o número digitado pelo usuário, existe ou não existe no vetor. 
