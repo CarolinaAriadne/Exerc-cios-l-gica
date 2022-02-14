@@ -9,7 +9,7 @@ for(let index = 0 ; index < 5; index ++){
 
 console.log(numeros)
 const numeroBuscado = prompt('Escreva um número');
-
+// [3,4,5,8]
 
 for(let index = 0; index < numeros.length; index ++){
     if(numeros[index] == numeroBuscado){

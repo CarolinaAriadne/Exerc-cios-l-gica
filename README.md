@@ -8,3 +8,6 @@ Número inteiro que representa um valor de saque em um caixa eletrônico. O obje
 
 ## script.03.js
 Verifica se o número digitado pelo usuário, existe ou não existe no vetor. 
+
+## script.04.js
+Dado dois vetores, preencher um terceiro vetor inicialmente vazio, com os elementos do primeiro e segundo vetor, utilizando somente o tamanho dos vetores como auxílio para chegar ao resultado esperado. 
