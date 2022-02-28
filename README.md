@@ -14,3 +14,6 @@ Dado dois vetores, preencher um terceiro vetor inicialmente vazio, com os elemen
 
 ## script.05.js
 Encontrar dentro da lista de objetos, os nomes que possuem a letra 'e'. Execução realizada com for, find, filter, map + filter e for of. 
+
+## script.06.js 
+Manipulação de objetos com uso de filter, map, includes  e flat.
