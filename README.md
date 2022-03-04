@@ -17,3 +17,6 @@ Encontrar dentro da lista de objetos, os nomes que possuem a letra 'e'. Execuç�
 
 ## script.06.js 
 Manipulação de objetos com uso de filter, map, includes  e flat.
+
+## script.07.js
+Simulação de um pinbal, onde o usuário pode escolher qual caminho quer seguir, sendo que as "válvulas" mudam de estado de aberta para fechado, dependendo de qual caminho o usuário decidir seguir. 
