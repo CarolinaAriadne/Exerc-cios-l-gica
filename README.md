@@ -25,7 +25,7 @@ Simulação de um pinbal, onde o usuário pode escolher qual caminho quer seguir
 Validação de email, sem utilização de regex.
 Verificações:
   se existe um @,
-  se existe um ponto, antes da última palavra,
+  se existe um ponto antes da última palavra,
   se existe uma palavra antes do @,
   no mínimo ter duas letras na última palavra,
   não podem haver pontos seguidos,
