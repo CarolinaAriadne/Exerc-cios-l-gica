@@ -24,10 +24,10 @@ Simulação de um pinbal, onde o usuário pode escolher qual caminho quer seguir
 ## script.08.js
 Validação de email, sem utilização de regex.
 Verificações:
-  se exisnte um @
+  se existe um @
   se existe um ponto, antes da última palavra
   se existe uma palavra antes do @
-  no mínino ter duas letras na última palavra
+  no mínimo ter duas letras na última palavra
   não podem haver pontos seguidos
   não pode ter espaço
   deve haver caractere entre o @ e o ponto
