@@ -20,3 +20,14 @@ Manipulação de objetos com uso de filter, map, includes  e flat.
 
 ## script.07.js
 Simulação de um pinbal, onde o usuário pode escolher qual caminho quer seguir, sendo que as "válvulas" mudam de estado de aberta para fechado, dependendo de qual caminho o usuário decidir seguir. 
+
+## script.08.js
+Validação de email, sem utilização de regex.
+Verificações:
+  se exisnte um @
+  se existe um ponto, antes da última palavra
+  se existe uma palavra antes do @
+  no mínino ter duas letras na última palavra
+  não podem haver pontos seguidos
+  não pode ter espaço
+  deve haver caractere entre o @ e o ponto
