@@ -34,3 +34,6 @@ Verificações:
 
   ## script.09.js
   Manipulação de datas - parte 1
+
+  ## scrip.10.js
+  Manipulação de datas - parte 2

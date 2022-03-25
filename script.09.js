@@ -27,8 +27,6 @@ console.log(diferenca);
 
 let diferencaEmAnos = diferenca / 1000 / 60 / 60 / 24 / 365;
 
-
-
 diferencaEmAnos = Math.floor(diferencaEmAnos);
 
 console.log(diferencaEmAnos);
