@@ -37,3 +37,9 @@ Verificações:
 
   ## scrip.10.js
   Manipulação de datas - parte 2
+
+  ## script.11.js
+  Manipulação de datas - parte 3
+
+  ## script.12.js
+  Manipulação de datas - parte 4 - refatoração do exercício 10
