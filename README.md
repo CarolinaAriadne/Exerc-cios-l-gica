@@ -43,3 +43,7 @@ Verificações:
 
   ## script.12.js
   Manipulação de datas - parte 4 - refatoração do exercício 10
+
+  ## script.13.js
+
+  Manipulação de horário, considerando fuso horário.
