@@ -47,3 +47,7 @@ Verificações:
   ## script.13.js
 
   Manipulação de horário, considerando fuso horário.
+
+  ## script.14.js
+
+  Busca binária em vetor ordenado
