@@ -51,3 +51,7 @@ Verificações:
   ## script.14.js
 
   Busca binária em vetor ordenado
+
+  ## script.15.js 
+
+  Ordenação de array utilizando Bubble Sort 
